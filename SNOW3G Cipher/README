@@ -1,0 +1,5 @@
+Compiled on: MacOS
+
+compiled with
+g++ StreamCipher.cpp -o run
+ran with ./run input.txt output.txt
